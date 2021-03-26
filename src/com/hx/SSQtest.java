@@ -34,6 +34,7 @@ public class SSQtest {
         }*/
 
 
+        getssq();
     }
 
     /*

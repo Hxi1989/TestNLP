@@ -15,6 +15,7 @@ import java.util.stream.Collectors;
 public class ANLP {
 
 
+    //测试使用
     public static void main(String[] args) {
 
 //        double d = getSimilarity("内蒙古致22死28伤重大安全事故系列案宣判 22人获刑","22人死亡，28人受伤！");
